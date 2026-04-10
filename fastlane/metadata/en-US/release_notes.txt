@@ -1,0 +1,5 @@
+Initial release of Koydo AP Chemistry Prep.
+
+• Practice questions
+• Score tracking
+• AI tutor integration
